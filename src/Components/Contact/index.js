@@ -14,7 +14,7 @@ export default function Contact() {
                 ASHISH KUMAR
               </h2>
             </div>
-            <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
+            <div className="lg:w-1/2 px-10 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>

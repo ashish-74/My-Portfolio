@@ -12,9 +12,8 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            The section below contains a list of apps build using React.
+            The description includes the info about the app and link to the live portal of those apps. 
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -25,7 +24,7 @@ export default function Projects() {
               className="sm:w-1/2 w-100 p-4">
               <div className="flex relative">
                 <img
-                  alt="gallery"
+                  alt="images"
                   className="absolute inset-0 w-full h-full object-cover object-center"
                   src={project.image}
                 />
