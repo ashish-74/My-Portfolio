@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Pizzeria App",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "The Pizzeria web app is a clone of typical web app which allows you to login/register as a user or guest,view all the available pizza along with its toppings,add it to your cart and order.",
+    image: "./pizzeria.png",
+    link: "https://github.com/ashish-74/Pizzeria-WebApp---MERN",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
+    title: "COVID-19 Tracker",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "The web app allows the user to view the tally of covid patients on a global range and also allows to filter the data as per country also.",
+    image: "./covid data.png",
+    link: "https://covid-status-tracker.netlify.app",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "PayApp",
+    subtitle: "React and local storage",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "This app allow users to add the payment reminders along with description and amount.It also gives features to mark the task as done status.",
+    image: "./payapp.png",
+    link: "https://payement-notes.netlify.app",
+  },
+  {
+    title: "Todo -Indecison App",
+    subtitle: "React",
+    description:
+      "The user can add the todo tasks and let the system decides which task to take up on a random basis on any order.",
+    image: "./todo-indecision.png",
+    link: "https://todo-indecision-app.netlify.app",
   },
 ];
 
